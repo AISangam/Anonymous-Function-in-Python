@@ -7,7 +7,7 @@
 Before going further please look at the mathematical equation of the **Harmonic Mean**. Please see :arrow_down:  
 *n* is the number of terms, *a1* is the first term while *a2* is the second term
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=n/1/a1&plus;1/a2)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?n/1/a1&plus;1/a2)" title="n/1/a1+1/a2)" /></a>
+<a href="https://www.codecogs.com/eqnedit.php?latex=n/(1/a1&plus;1/a2)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?n/(1/a1&plus;1/a2)" title="n/(1/a1+1/a2)" /></a>
 
 
 ---
